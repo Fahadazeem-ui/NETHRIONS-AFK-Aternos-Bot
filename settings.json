@@ -1,7 +1,7 @@
 {
-  "name": "AFK Bot",
+  "name": "Techno Blade",
   "bot-account": {
-    "username": "Slobot00",
+    "username": "TechnoBlade",
     "password": "",
     "type": "offline"
   },
@@ -9,7 +9,7 @@
     "ip": "slobtest1.aternos.me",
     "port": 27586,
     "version": "",
-    "try-creative": false
+    "try-creative": false.
   },
   "position": {
     "enabled": true,
@@ -27,8 +27,8 @@
       "sneak": true
     },
     "chat-messages": {
-      "enabled": true,
-      "repeat": true,
+      "enabled": false,
+      "repeat": false,
       "repeat-delay": 120,
       "messages": [
         "I'm a regular player",
