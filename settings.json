@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Nethrionsmp.aternos.me",
-    "port": 51341,
+    "ip": "Nethrionsmp.pixelforge.gg",
+    "port": 26176,
     "version": "1.20.1",
     "try-creative": false
   },
