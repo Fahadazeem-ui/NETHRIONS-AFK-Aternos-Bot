@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Nethrionsmp.pixelforge.gg",
+    "ip": "nethrionsmp.pixelforge.gg",
     "port": 26176,
     "version": "1.20.1",
     "try-creative": false
